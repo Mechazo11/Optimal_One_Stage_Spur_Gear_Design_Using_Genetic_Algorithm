@@ -1,4 +1,4 @@
-## Introduction: 
+## INTRODUCTION: 
 Optimal Design of Compact One-Stage Spur Gear Reducer using Genetic Algorithm. Code was written as part of a class project for ME 4244: Machine Design II taught by Dr. Md. Wahah in Spring 2023 in Louisiana State University. 
 
 Written in MATLAB. Tested in MATLAB 2022a. For easier debugging and future upgrades, I have split important functions into their own .m files
